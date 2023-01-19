@@ -6,4 +6,5 @@ https://learngitbranching.js.org/?locale=ru_RU
 2) Коммит git commit -m "[Название]"
 3) Загрузка git push -u origin master
 
+
 17.01.23
